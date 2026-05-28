@@ -1,10 +1,3 @@
-<style>
-@font-face {
-  font-family: "Berkeley Mono";
-  src: url("./include/BerkeleyMono-Regular.woff2") format("woff2");
-}
-</style>
-
 # Multimodal-LLM-Review
 Some Overviews and Personal Readings on the Multimodal Large Model.
 
@@ -13,8 +6,10 @@ Some Overviews and Personal Readings on the Multimodal Large Model.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Paper List](#paper-list)
-  - [1 What is LLM-as-a-Judge?](#1-what-is-llm-as-a-judge)
+- [Multimodal-LLM-Review](#multimodal-llm-review)
+  - [Table of Content](#table-of-content)
+  - [Paper List](#paper-list)
+    - [1 What is LLM-as-a-Judge?](#1-what-is-llm-as-a-judge)
 
 <!-- END doctoc -->
 
