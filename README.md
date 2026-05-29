@@ -6,18 +6,17 @@ Some Overviews and Personal Readings on the Multimodal Large Model.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Multimodal-LLM-Review](#multimodal-llm-review)
-  - [Table of Content](#table-of-content)
-  - [Paper List](#paper-list)
-    - [1 What is LLM-as-a-Judge?](#1-what-is-llm-as-a-judge)
+- [Paper List](#paper-list)
+  - [1 What is MultimodalLLM](#1-what-is-multimodalllm)
 
 <!-- END doctoc -->
 
 
 
+
 ## Paper List
 
-### 1 What is LLM-as-a-Judge?
+### 1 What is MultimodalLLM
 
 - S. Tong et al., “Beyond Language Modeling: An Exploration of Multimodal Pretraining,” arXiv.org, 2026. https://arxiv.org/abs/2603.03276 (accessed May 28, 2026).
 - C. Li et al., “Unifying Contrastive and Generative Objectives for Visual Understanding and Text-to-Image Generation,” arXiv.org, 2026. https://arxiv.org/abs/2603.02667 (accessed May 28, 2026).
