@@ -26,7 +26,6 @@ Some Overviews and Personal Readings on the Multimodal Large Model.
 
 ### 2. Cross-Modal Retrieval and Graph-Based Multimodal Reasoning
 
-
 - Y. Sun, K. Li, P. Guo, J. Liu, and Q. Tan, “Mario: Multimodal Graph Reasoning with Large Language Models,” arXiv.org, 2026. https://arxiv.org/abs/2603.05181 (accessed May 28, 2026).
 - Ngong, Ivoline C, Z. Reza, and J. P. Near, “Differentially Private Multimodal In-Context Learning,” arXiv.org, 2026. https://arxiv.org/abs/2603.04894 (accessed May 28, 2026).
 
