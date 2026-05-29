@@ -17,8 +17,6 @@ Some Overviews and Personal Readings on the Multimodal Large Model.
 
 <!-- END doctoc -->
 
-
-
 ## Paper List
 
 ### 1. Unified Multimodal Pretraining and Representation Learning
