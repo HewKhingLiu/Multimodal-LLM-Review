@@ -6,16 +6,16 @@ Some Overviews and Personal Readings on the Multimodal Large Model.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Paper List](#paper-list)
-  - [1. Unified Multimodal Pretraining and Representation Learning](#1-unified-multimodal-pretraining-and-representation-learning)
-  - [2. Cross-Modal Retrieval and Graph-Based Multimodal Reasoning](#2-cross-modal-retrieval-and-graph-based-multimodal-reasoning)
-  - [3. Emotion-Aware and Real-Time Interactive Multimodal Intelligence](#3-emotion-aware-and-real-time-interactive-multimodal-intelligence)
-  - [4. Compact Multimodal Models and Deployment-Efficient Optimization](#4-compact-multimodal-models-and-deployment-efficient-optimization)
-  - [5. Security, Privacy, and Trustworthiness in Multimodal LLMs](#5-security-privacy-and-trustworthiness-in-multimodal-llms)
+- [Multimodal-LLM-Review](#multimodal-llm-review)
+  - [Table of Content](#table-of-content)
+  - [Paper List](#paper-list)
+    - [1. Unified Multimodal Pretraining and Representation Learning](#1-unified-multimodal-pretraining-and-representation-learning)
+    - [2. Cross-Modal Retrieval and Graph-Based Multimodal Reasoning](#2-cross-modal-retrieval-and-graph-based-multimodal-reasoning)
+    - [3. Emotion-Aware and Real-Time Interactive Multimodal Intelligence](#3-emotion-aware-and-real-time-interactive-multimodal-intelligence)
+    - [4. Compact Multimodal Models and Deployment-Efficient Optimization](#4-compact-multimodal-models-and-deployment-efficient-optimization)
+    - [5. Security, Privacy, and Trustworthiness in Multimodal LLMs](#5-security-privacy-and-trustworthiness-in-multimodal-llms)
 
 <!-- END doctoc -->
-
-
 
 
 
